@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="profile/assets/banner.jpg" alt="Cure Consulting Group" width="100%" style="border-radius: 8px;" />
+<img src="https://raw.githubusercontent.com/Cure-Consulting-Group/.github/main/profile/assets/banner.jpg" alt="Cure Consulting Group" width="100%" style="border-radius: 8px;" />
 
 <br/><br/>
 
@@ -66,7 +66,7 @@ Cure Consulting Group Portfolio
 ## 📐 Engineering Standards & Architecture
 
 Every repository under Cure Consulting Group adheres to ratified standards:
-- 📖 [**Engineering Standards Guide**](standards/ENGINEERING_STANDARDS.md) — Multi-platform project topologies (Web + iOS + Android), platform conventions, and task guardrails.
+- 📖 [**Engineering Standards Guide**](https://github.com/Cure-Consulting-Group/.github/blob/main/standards/ENGINEERING_STANDARDS.md) — Multi-platform project topologies (Web + iOS + Android), platform conventions, and task guardrails.
 - 🔒 **Security Posture** — GitHub Enterprise Secret Scanning & Push Protection enabled org-wide; 0 static credentials policy.
 - 🧪 **Verification** — End-to-end testing with Playwright (Web) and Maestro (Mobile); screenshot regression testing via Paparazzi.
 - 📦 **Automated Dependencies** — Grouped Dependabot updates to eliminate notification noise and prevent dependency drift.
