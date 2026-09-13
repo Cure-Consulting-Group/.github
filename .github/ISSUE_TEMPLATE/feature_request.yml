@@ -1,0 +1,40 @@
+name: "🚀 Feature Request / Story"
+description: "Suggest an idea, feature increment, or improvement"
+title: "[FEATURE]: "
+labels: ["enhancement"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Please outline the business context, target platforms, and user impact of this request.
+  - type: checkboxes
+    id: platforms
+    attributes:
+      label: Target Platform(s)
+      description: Which platforms require implementation?
+      options:
+        - label: Web (`apps/web`)
+        - label: iOS (`apps/ios`)
+        - label: Android (`apps/android`)
+        - label: Chrome Extension (`apps/extension`)
+        - label: Backend / Cloud Functions (`services/`)
+        - label: Shared Schema (`packages/contracts`)
+  - type: textarea
+    id: problem
+    attributes:
+      label: Problem Statement / User Story
+      description: "As a [type of user], I want [goal] so that [benefit]."
+    validations:
+      required: true
+  - type: textarea
+    id: solution
+    attributes:
+      label: Proposed Solution / Acceptance Criteria
+      description: Describe what success looks like and list concrete acceptance criteria.
+    validations:
+      required: true
+  - type: textarea
+    id: alternatives
+    attributes:
+      label: Alternatives or Technical Considerations
+      description: Describe any alternative solutions, architectural trade-offs, or migration concerns considered.

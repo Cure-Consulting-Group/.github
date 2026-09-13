@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: "💬 Technical Questions & Discussions"
+    url: "https://github.com/orgs/Cure-Consulting-Group/discussions"
+    about: "Ask questions and collaborate with the engineering team"
+  - name: "🔒 Security Vulnerability Reporting"
+    url: "mailto:security@cureconsultinggroup.com"
+    about: "Privately disclose sensitive security vulnerabilities"
