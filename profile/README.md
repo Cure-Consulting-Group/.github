@@ -79,4 +79,4 @@ Looking to engineer a new digital platform or modernize existing systems?
 
 - 🌐 **Website:** [cureconsultinggroup.com](https://cureconsultinggroup.com)
 - 🏢 **Headquarters:** Long Island / New York, NY
-- 💼 **Inquiries:** `contact@cureconsultinggroup.com`
+- 💼 **Inquiries:** `support@cureconsulting.group`

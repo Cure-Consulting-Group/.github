@@ -25,7 +25,7 @@ If you believe you have found a security vulnerability in any Cure Consulting Gr
 
 Please report vulnerabilities privately via one of the following channels:
 1. **GitHub Private Vulnerability Reporting**: Use the **"Report a vulnerability"** button under the **Security** tab of the relevant repository.
-2. **Direct Security Contact**: Email `security@cureconsultinggroup.com` with:
+2. **Direct Security Contact**: Email `support@cureconsulting.group` with:
    - Affected repository and commit hash / release version.
    - Detailed description of the vulnerability and impact.
    - Proof of concept or reproduction steps.
